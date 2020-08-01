@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.Negocio", "J
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.Testes", "JurosCompostosTestes\JurosCompostos.Testes.csproj", "{980F69CB-2623-4D53-B3D5-8829A416CD12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurosCompostos.ApiJurosPadrao", "JurosCompostosApiJurosPadrao\JurosCompostos.ApiJurosPadrao.csproj", "{851E6C82-8941-42C8-863F-87F187D7E395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.ApiJurosPadrao", "JurosCompostosApiJurosPadrao\JurosCompostos.ApiJurosPadrao.csproj", "{851E6C82-8941-42C8-863F-87F187D7E395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurosCompostos.ApiCalcularJuros", "JurosCompostosApiCalcularJuros\JurosCompostos.ApiCalcularJuros.csproj", "{0504D24F-6FBC-404A-AA35-681A247D47AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JurosCompostos.ApiCalcularJuros", "JurosCompostosApiCalcularJuros\JurosCompostos.ApiCalcularJuros.csproj", "{0504D24F-6FBC-404A-AA35-681A247D47AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurosCompostos.Entidades", "JurosCompostos.Entidades\JurosCompostos.Entidades.csproj", "{29DACD06-E471-446B-9887-AFF29ED1BD19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0504D24F-6FBC-404A-AA35-681A247D47AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0504D24F-6FBC-404A-AA35-681A247D47AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0504D24F-6FBC-404A-AA35-681A247D47AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DACD06-E471-446B-9887-AFF29ED1BD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DACD06-E471-446B-9887-AFF29ED1BD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DACD06-E471-446B-9887-AFF29ED1BD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DACD06-E471-446B-9887-AFF29ED1BD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\bin\Debug\netstandard2.0\JurosCompostos.Entidades.deps.json
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\bin\Debug\netstandard2.0\JurosCompostos.Entidades.dll
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\bin\Debug\netstandard2.0\JurosCompostos.Entidades.pdb
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\obj\Debug\netstandard2.0\JurosCompostos.Entidades.csprojAssemblyReference.cache
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\obj\Debug\netstandard2.0\JurosCompostos.Entidades.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\obj\Debug\netstandard2.0\JurosCompostos.Entidades.AssemblyInfo.cs
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\obj\Debug\netstandard2.0\JurosCompostos.Entidades.dll
+C:\Users\Willian\Documents\Trabalho\ApiJurosComposto\JurosCompostos\JurosCompostos.Entidades\obj\Debug\netstandard2.0\JurosCompostos.Entidades.pdb
