@@ -16,7 +16,7 @@ namespace JurosCompostos.Negocio.Servicos
         public JurosCompostosCalcularJuros()
         {
             _httpClient = new HttpClient();
-            _urlApi = "http://localhost:55742/";
+            _urlApi = "https://jurospadraowillian.azurewebsites.net/";
             configuracaoClienteHttp();
         }
         #endregion
@@ -38,7 +38,7 @@ namespace JurosCompostos.Negocio.Servicos
             if (response.IsSuccessStatusCode)
             {
                 string retornoTaxaJuros = await response.Content.ReadAsStringAsync();
-                return Convert.ToDouble(retornoTaxaJuros.Replace(".", ","));
+                return Convert.ToDouble(retornoTaxaJuros);
             }
             else
             {
